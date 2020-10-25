@@ -1,4 +1,6 @@
-# Project PROMIMOOC: "Predictive modelling based on process and inspection data"
+# Project PROMIMOOC: 
+
+## "Predictive modelling based on process and inspection data"
 
 This repository contains the development codes and documents of PROMIMOOC project.
 
